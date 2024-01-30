@@ -1,1 +1,2 @@
 # Add-and-Remove-Friend
+#The "Add and Remove Friend" project is a simple yet interactive web application designed to demonstrate the basics of HTML, CSS, and JavaScript, particularly focusing on DOM manipulation. This application allows users to toggle the status of a person between "Friend" and "Stranger" with a simple click of a button. This is a great example for beginners looking to understand how JavaScript can interact with the HTML and CSS of a webpage to create dynamic and responsive user experiences.
